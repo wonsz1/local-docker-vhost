@@ -9,7 +9,7 @@ edit /etc/apache2/extra/httpd-vhosts.conf and add paste
 ```
 <VirtualHost *:80>
   ServerName localhost
-  ProxyPass / http://localhost:8080/public/
+  ProxyPass / http://localhost:8080/
 </VirtualHost>
 ```
 
