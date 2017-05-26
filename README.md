@@ -24,3 +24,5 @@ restart apache:
 
 and check configuration:
 ```apachectl configtest```
+
+go to http://localhost 
