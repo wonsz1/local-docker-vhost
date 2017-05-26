@@ -1,4 +1,4 @@
-# Simple vhost configuration for docker
+# Simple vhost configuration for docker on mac
 
 ### How to use
 
